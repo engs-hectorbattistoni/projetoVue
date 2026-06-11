@@ -28,7 +28,7 @@
     </div>
 
     <div class="footer-bottom">
-      <p>© {{ year }} TechStore — Projeto acadêmico Vue.js</p>
+      <p>© {{ year }} TechStore — Projeto Front-End Vue.js</p>
     </div>
   </footer>
 </template>
